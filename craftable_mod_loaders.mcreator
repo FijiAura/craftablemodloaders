@@ -1,0 +1,165 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ForgeItem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forge_item",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "FabricItem",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fabric_item",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "QuiltItem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quilt_item",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "NeoForgeItem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neo_forge_item",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "FabricRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fabric_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "QuiltRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quilt_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "ForgeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forge_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "NeoForgeRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neo_forge_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "WhatDoesTheFoxSay",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "what_does_the_fox_say",
+      "path": "~/Craftable/secret"
+    },
+    {
+      "name": "WhatDoesTheRecipeSay",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "what_does_the_recipe_say",
+      "path": "~/Craftable/secret"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "whatdoesneoforgesay",
+      "files": [
+        "ylvis-the_fox_what_does_the_fox_say_1_"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.what_does_the_fox_say.name": "What Does The Fox Say",
+      "item.record.what_does_the_fox_say.desc": "What Does The Fox Say?",
+      "item.quilt_item.name": "Quilt",
+      "item.neo_forge_item.name": "NeoForge",
+      "subtitles.whatdoesneoforgesay": "",
+      "item.fabric_item.name": "Fabric",
+      "item.forge_item.name": "Forge"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Craftable",
+        "children": [
+          {
+            "name": "secret",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Modloaders",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "craftable_mod_loaders",
+    "modName": "Craftable mod loaders",
+    "version": "1.0.0",
+    "description": "Adds mod loaders",
+    "author": "FijiAura",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.craftablemodloaders",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

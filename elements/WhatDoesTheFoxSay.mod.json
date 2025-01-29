@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "screen-shot-2013-09-06-at-11.52.17-am-2832879388",
+    "name": "What Does The Fox Say",
+    "description": "What Does The Fox Say?",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:whatdoesneoforgesay"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

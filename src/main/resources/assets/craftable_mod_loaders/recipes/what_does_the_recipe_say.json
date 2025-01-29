@@ -1,0 +1,16 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:noteblock"
+    },
+    {
+      "item": "craftable_mod_loaders:neo_forge_item"
+    }
+  ],
+  "result": {
+    "item": "craftable_mod_loaders:what_does_the_fox_say",
+    "count": 1
+  }
+}
