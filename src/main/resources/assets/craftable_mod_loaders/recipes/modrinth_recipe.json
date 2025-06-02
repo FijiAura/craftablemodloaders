@@ -1,0 +1,50 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 13
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "2": {
+      "item": "minecraft:wool",
+      "data": 13
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "4": {
+      "item": "craftable_mod_loaders:fabric_item"
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 13
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 13
+    }
+  },
+  "result": {
+    "item": "craftable_mod_loaders:modrinth",
+    "count": 1
+  }
+}

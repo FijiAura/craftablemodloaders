@@ -9,10 +9,10 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import net.mcreator.craftablemodloaders.creativetab.TabCraftableModloaders;
 import net.mcreator.craftablemodloaders.ElementsCraftableModLoadersMod;
 
 @ElementsCraftableModLoadersMod.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemNeoForgeItem extends ElementsCraftableModLoadersMod.ModElement 
 			maxStackSize = 64;
 			setUnlocalizedName("neo_forge_item");
 			setRegistryName("neo_forge_item");
-			setCreativeTab(CreativeTabs.MISC);
+			setCreativeTab(TabCraftableModloaders.tab);
 		}
 
 		@Override

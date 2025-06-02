@@ -1,0 +1,16 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftable_mod_loaders:forge_item"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "craftable_mod_loaders:rift",
+    "count": 1
+  }
+}

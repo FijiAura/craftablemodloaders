@@ -8,20 +8,20 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:packed_ice"
+      "item": "craftable_mod_loaders:mod_loader_mp"
     },
     "3": {
-      "item": "minecraft:packed_ice"
+      "item": "craftable_mod_loaders:mod_loader_mp"
     },
     "4": {
       "item": "minecraft:anvil",
       "data": 0
     },
     "5": {
-      "item": "minecraft:packed_ice"
+      "item": "craftable_mod_loaders:mod_loader_mp"
     },
     "7": {
-      "item": "minecraft:packed_ice"
+      "item": "craftable_mod_loaders:mod_loader_mp"
     }
   },
   "result": {

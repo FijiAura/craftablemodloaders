@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = CraftableModLoadersMod.MODID, version = CraftableModLoadersMod.VERSION)
 public class CraftableModLoadersMod {
 	public static final String MODID = "craftable_mod_loaders";
-	public static final String VERSION = "1.0.0";
+	public static final String VERSION = "4.2.0";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("craftable_mod_load:a");
 	@SidedProxy(clientSide = "net.mcreator.craftablemodloaders.ClientProxyCraftableModLoadersMod", serverSide = "net.mcreator.craftablemodloaders.ServerProxyCraftableModLoadersMod")
 	public static IProxyCraftableModLoadersMod proxy;

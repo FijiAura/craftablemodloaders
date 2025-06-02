@@ -1,0 +1,9 @@
+{
+  "parent": "craftable_mod_loaders:custom/legacylauncher",
+  "textures": {
+    "all": "craftable_mod_loaders:blocks/pixil-frame-019",
+    "particle": "craftable_mod_loaders:blocks/pixil-frame-019",
+    "0": "craftable_mod_loaders:blocks/pixil-frame-019",
+    "missing": "craftable_mod_loaders:blocks/pixil-frame-019"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "craftable_mod_loaders:blocks/sklauncher",
+    "up": "craftable_mod_loaders:blocks/sklauncher",
+    "north": "craftable_mod_loaders:blocks/sklauncher",
+    "east": "craftable_mod_loaders:blocks/sklauncher",
+    "south": "craftable_mod_loaders:blocks/sklauncher",
+    "west": "craftable_mod_loaders:blocks/sklauncher",
+    "particle": "craftable_mod_loaders:blocks/sklauncher"
+  }
+}

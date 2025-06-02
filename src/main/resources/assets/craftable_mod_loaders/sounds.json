@@ -3,7 +3,7 @@
     "category": "record",
     "sounds": [
       {
-        "name": "craftable_mod_loaders:ylvis-the_fox_what_does_the_fox_say_1_",
+        "name": "craftable_mod_loaders:fox",
         "stream": true
       }
     ]

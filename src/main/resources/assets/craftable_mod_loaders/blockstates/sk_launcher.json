@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "craftable_mod_loaders:sk_launcher"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "craftable_mod_loaders:blocks/rifttop",
+    "up": "craftable_mod_loaders:blocks/rifttop",
+    "north": "craftable_mod_loaders:blocks/riftside",
+    "east": "craftable_mod_loaders:blocks/riftfront",
+    "south": "craftable_mod_loaders:blocks/riftside",
+    "west": "craftable_mod_loaders:blocks/riftfront",
+    "particle": "craftable_mod_loaders:blocks/rifttop"
+  }
+}

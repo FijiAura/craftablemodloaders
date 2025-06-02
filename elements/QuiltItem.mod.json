@@ -8,7 +8,7 @@
     "name": "Quilt",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CraftableModloaders"
     },
     "stackSize": 64,
     "enchantability": 0,

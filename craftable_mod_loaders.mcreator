@@ -100,6 +100,315 @@
       "ids": {},
       "registry_name": "what_does_the_recipe_say",
       "path": "~/Craftable/secret"
+    },
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "logo",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "Rift",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rift",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "CraftableModloaders",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftable_modloaders"
+    },
+    {
+      "name": "ModLoaderMP",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mod_loader_mp",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "LiteLoader",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_loader",
+      "path": "~/Modloaders"
+    },
+    {
+      "name": "ModloaderRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "modloader_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "LiteLoaderRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lite_loader_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "RiftRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rift_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "SKLauncher",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sk_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "PrismLauncher",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prism_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "ATLauncher",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "at_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "PolyMC",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poly_mc",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "MultiMC",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "multi_mc",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "LegacyLauncher",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "legacy_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "TLauncher",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "t_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "DefaultLauncher",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "default_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "GDLauncher",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gd_launcher",
+      "path": "~/Modloaders/Launchers"
+    },
+    {
+      "name": "Curseforge",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "curseforge",
+      "path": "~/Modloaders/ModSites"
+    },
+    {
+      "name": "Modrinth",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "modrinth",
+      "path": "~/Modloaders/ModSites"
+    },
+    {
+      "name": "FeedTheBeast",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feed_the_beast",
+      "path": "~/Modloaders/ModSites"
+    },
+    {
+      "name": "Technic",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technic",
+      "path": "~/Modloaders/ModSites"
+    },
+    {
+      "name": "ModrinthRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "modrinth_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "CurseforgeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "curseforge_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "DefaultLauncherRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "default_launcher_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "LegacyLauncherRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legacy_launcher_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "TlauncherRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tlauncher_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "SKLauncherRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sk_launcher_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "MultiMCRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "multi_mc_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "PolyMCRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poly_mc_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "PrismLauncherRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prism_launcher_recipe",
+      "path": "~/Craftable"
+    },
+    {
+      "name": "ATLauncherRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "at_launcher_recipe",
+      "path": "~/Craftable"
     }
   ],
   "variable_elements": [],
@@ -107,7 +416,7 @@
     {
       "name": "whatdoesneoforgesay",
       "files": [
-        "ylvis-the_fox_what_does_the_fox_say_1_"
+        "fox"
       ],
       "category": "record",
       "subtitle": ""
@@ -115,13 +424,31 @@
   ],
   "language_map": {
     "en_us": {
-      "item.what_does_the_fox_say.name": "What Does The Fox Say",
-      "item.record.what_does_the_fox_say.desc": "What Does The Fox Say?",
-      "item.quilt_item.name": "Quilt",
-      "item.neo_forge_item.name": "NeoForge",
-      "subtitles.whatdoesneoforgesay": "",
+      "tile.legacy_launcher.name": "Legacy Launcher",
+      "item.feed_the_beast.name": "FeedTheBeast",
+      "item.mod_loader_mp.name": "Mod Loader MP",
+      "tile.rift.name": "Rift",
       "item.fabric_item.name": "Fabric",
-      "item.forge_item.name": "Forge"
+      "item.lite_loader.name": "Lite Loader",
+      "item.technic.name": "Technic",
+      "tile.sk_launcher.name": "SKLauncher",
+      "item.quilt_item.name": "Quilt",
+      "item.curseforge.name": "Curseforge",
+      "item.logo.name": "Logo",
+      "subtitles.whatdoesneoforgesay": "",
+      "item.neo_forge_item.name": "NeoForge",
+      "item.modrinth.name": "Modrinth",
+      "item.what_does_the_fox_say.name": "What Does The Fox Say",
+      "item.gd_launcher.name": "GDLauncher",
+      "item.default_launcher.name": "Default Launcher",
+      "item.at_launcher.name": "ATLauncher",
+      "item.poly_mc.name": "PolyMC",
+      "item.forge_item.name": "Forge",
+      "item.t_launcher.name": "TLauncher",
+      "item.multi_mc.name": "MultiMC",
+      "item.record.what_does_the_fox_say.desc": "What Does The Fox Say?",
+      "item.prism_launcher.name": "Prism Launcher",
+      "itemGroup.tabcraftable_modloaders": "CML"
     }
   },
   "foldersRoot": {
@@ -138,26 +465,36 @@
       },
       {
         "name": "Modloaders",
-        "children": []
+        "children": [
+          {
+            "name": "Launchers",
+            "children": []
+          },
+          {
+            "name": "ModSites",
+            "children": []
+          }
+        ]
       }
     ]
   },
   "workspaceSettings": {
     "modid": "craftable_mod_loaders",
     "modName": "Craftable mod loaders",
-    "version": "1.0.0",
-    "description": "Adds mod loaders",
+    "version": "4.2.0",
+    "description": "Ever wanted to hold the fabric logo?",
     "author": "FijiAura",
-    "websiteURL": "https://mcreator.net",
+    "websiteURL": "https://modrinth.com/mod/craftable-modloaders",
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "bf987571fd47af598e76da6e5c0f8fe5ac5f722b_96",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.12.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "your mom",
     "modElementsPackage": "net.mcreator.craftablemodloaders",
     "lockBaseModFiles": false
   },

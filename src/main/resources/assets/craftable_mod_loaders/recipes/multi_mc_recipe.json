@@ -1,0 +1,22 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftable_mod_loaders:default_launcher"
+    },
+    {
+      "item": "craftable_mod_loaders:default_launcher"
+    },
+    {
+      "item": "craftable_mod_loaders:default_launcher"
+    },
+    {
+      "item": "craftable_mod_loaders:default_launcher"
+    }
+  ],
+  "result": {
+    "item": "craftable_mod_loaders:multi_mc",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pixil-frame-019",
+        "missing": "pixil-frame-019"
+      },
+      "name": "default"
+    }
+  }
+}

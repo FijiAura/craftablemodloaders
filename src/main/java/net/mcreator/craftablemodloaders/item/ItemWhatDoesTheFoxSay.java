@@ -11,9 +11,9 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemRecord;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
+import net.mcreator.craftablemodloaders.creativetab.TabCraftableModloaders;
 import net.mcreator.craftablemodloaders.ElementsCraftableModLoadersMod;
 
 @ElementsCraftableModLoadersMod.ModElement.Tag
@@ -40,7 +40,7 @@ public class ItemWhatDoesTheFoxSay extends ElementsCraftableModLoadersMod.ModEle
 					ElementsCraftableModLoadersMod.sounds.get(new ResourceLocation("craftable_mod_loaders:whatdoesneoforgesay")));
 			setUnlocalizedName("what_does_the_fox_say");
 			setRegistryName("what_does_the_fox_say");
-			setCreativeTab(CreativeTabs.MISC);
+			setCreativeTab(TabCraftableModloaders.tab);
 		}
 
 		@Override

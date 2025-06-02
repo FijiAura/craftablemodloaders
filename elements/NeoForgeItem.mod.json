@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pixil-frame-01",
+    "texture": "neoforge",
     "customModelName": "Normal",
     "name": "NeoForge",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CraftableModloaders"
     },
     "stackSize": 64,
     "enchantability": 0,

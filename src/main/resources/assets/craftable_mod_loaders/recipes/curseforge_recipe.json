@@ -1,0 +1,47 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "4": {
+      "item": "minecraft:anvil",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "craftable_mod_loaders:curseforge",
+    "count": 1
+  }
+}

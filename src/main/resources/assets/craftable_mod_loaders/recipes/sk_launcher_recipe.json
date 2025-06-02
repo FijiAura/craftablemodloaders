@@ -1,0 +1,26 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "2": {
+      "item": "craftable_mod_loaders:t_launcher"
+    }
+  },
+  "result": {
+    "item": "craftable_mod_loaders:sk_launcher",
+    "count": 1
+  }
+}

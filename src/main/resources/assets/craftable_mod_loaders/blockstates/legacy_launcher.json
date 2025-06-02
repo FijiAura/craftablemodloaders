@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "craftable_mod_loaders:legacy_launcher"
+    },
+    "facing=north": {
+      "model": "craftable_mod_loaders:legacy_launcher"
+    },
+    "facing=east": {
+      "model": "craftable_mod_loaders:legacy_launcher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "craftable_mod_loaders:legacy_launcher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "craftable_mod_loaders:legacy_launcher",
+      "y": 270
+    }
+  }
+}

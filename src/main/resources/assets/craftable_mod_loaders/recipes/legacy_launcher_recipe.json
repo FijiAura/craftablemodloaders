@@ -1,0 +1,24 @@
+{
+  "group": "craftable_mod_loaders",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "craftable_mod_loaders:default_launcher"
+    },
+    "1": {
+      "item": "minecraft:piston"
+    },
+    "2": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "craftable_mod_loaders:legacy_launcher",
+    "count": 1
+  }
+}

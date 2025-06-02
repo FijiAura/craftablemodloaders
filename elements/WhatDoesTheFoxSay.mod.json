@@ -6,7 +6,7 @@
     "name": "What Does The Fox Say",
     "description": "What Does The Fox Say?",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CraftableModloaders"
     },
     "music": {
       "value": "CUSTOM:whatdoesneoforgesay"
